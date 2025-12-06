@@ -3,9 +3,10 @@
 This is a simple Library Management System implemented in C.
 It supports:
 
-- Adding books  
+- Adding books
+- Displaying records   
 - Searching for books  
-- Displaying records  
-- Deleting records  
-- Updating book information  
+- Issuing Books
+- Returning Books 
+ 
 
